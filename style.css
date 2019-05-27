@@ -42,7 +42,7 @@ a {
 }
 
 #entertainment {
-  background-image: url('../img/section-bg.jpg');
+  background-image: url('section-bg.jpg');
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
@@ -60,7 +60,7 @@ a {
 #showcase {
   margin: 0;
   padding: 0;
-  background-image: url('../img/showcase.jpg');
+  background-image: url('showcase.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
